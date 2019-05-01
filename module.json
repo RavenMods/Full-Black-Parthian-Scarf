@@ -1,0 +1,10 @@
+{
+    "name": "Full-Black-Parthian-Scarf",
+    "category": "client",
+    "description": "This mod removes the white writing on the right side of the mask making it full black.",
+    "author": "Raven",
+    "options": {
+        "niceName": "Black Parthian Scarf"
+    },
+    "servers": ["https://raw.githubusercontent.com/"]
+}
