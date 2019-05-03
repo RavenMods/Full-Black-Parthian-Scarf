@@ -4,6 +4,7 @@
     "description": "This mod removes the white writing on the right side of the mask making it full black.",
     "author": "Raven",
     "options": {
+        "guiName": "Costume: Black Parthian Scarf",
         "niceName": "Black Parthian Scarf"
     },
     "servers": ["https://raw.githubusercontent.com/RavenMods/Full-Black-Parthian-Scarf/master/"]
